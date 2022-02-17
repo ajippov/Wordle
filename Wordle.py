@@ -157,13 +157,6 @@ def nicheCheck(data):
     
     return possibleWords
                 
-
-# One Small Function for Uniqueness of 'Checks' Values
-
-def isUnique(vals):
-    check = vals.to_numpy()
-    return (check[0] == check).all()
-
 # Finally, the Game
 
 def main():
