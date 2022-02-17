@@ -1,5 +1,4 @@
-# Wordle
-Wordle Solver
+# Wordle Solver
 
 Things to Improve:
 - More forethought to structure (specifically w.r.t. functions, not requiring them to use externally instantiated lists)
